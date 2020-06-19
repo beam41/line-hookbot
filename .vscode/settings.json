@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d7f885a9-1ad9-4855-b209-2c9be1b10baa/resourceGroups/LineHook/providers/Microsoft.Web/sites/meehoi-linehook",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
